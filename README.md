@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fsf-silva-ferreira
 - 👀 I’m interested in Salesforce, process automation and programming languages.
-- 🌱 I’m currently learning Saledforce
+- 🌱 I’m currently learning Salesforce.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
